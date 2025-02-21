@@ -1,5 +1,5 @@
 # Vanguard A/B Testing Project
-## :chincheta: Project Overview
+## Project Overview
 This project analyzes the impact of a new UI design on **user completion rates**, **error rates**, and **time to completion** for The Vanguard Group's online process. Using **A/B testing**, we compare a **Test Group** (new UI) against a **Control Group** (existing UI) to evaluate the effectiveness of the redesign.
 ## Objectives
 The key research questions:
